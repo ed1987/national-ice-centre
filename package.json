@@ -1,0 +1,11 @@
+{
+  "name": "Ice-Sports-Session-Booking",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Edwin Ogoe",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}

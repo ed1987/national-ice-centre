@@ -1,0 +1,94 @@
+nav {
+	background-color: #5ac1d0;
+}
+
+.ml-auto {
+    margin-left: auto!important;
+}
+
+main {
+  background-image: url("https://www.kwikrinksyntheticice.com/wp-content/uploads/2020/06/FST-3-scaled.jpeg");
+  background-repeat: no-repeat;
+  background-position: center 60%;
+  background-attachment: fixed;
+}
+
+.bg-light {
+    background-color: rgb(248 249 250 / 60%) !important;
+}
+
+.w-100px {
+  width: 100px;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+.w-auto {
+  width: auto !important;
+}
+
+.h-400px {
+  height: 400px !important;
+}
+
+.card-header {
+	background: transparent;
+}
+
+.card-calendar-img {
+	max-width: 168px;
+}
+
+.card-img-overlay {
+	padding: 4rem;
+}
+
+.calendar-date {
+	margin-top: 50%;
+	transform: translate(0%, -50%);
+}
+
+.btn-time-slot {
+    text-decoration: none;
+}
+
+.selected-btn {
+	outline: 0;
+    box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
+}
+
+.btn-check:active+.btn-link, .btn-check:checked+.btn-link, .btn-link.active, .btn-link:active, .show>.btn-link.dropdown-toggle {
+    color: #fff;
+    background-color: #5ac1d0;
+    border-color: #5ac1d0;
+    box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%);
+}
+
+.btn-primary {
+	background-color: #5ac1d0;
+	border-color: #5ac1d0;
+}
+
+.text-primary {
+	color: #5ac1d0;
+}
+
+@media (min-width: 768px) {
+	.card-img-overlay {
+		padding: 2.5rem;
+	}
+}
+
+@media (min-width: 992px) {
+	.card-img-overlay {
+		padding: 3.5rem;
+	}
+}
+
+@media (min-width: 1200px) {
+	.card-img-overlay {
+		padding: 4rem;
+	}
+}
